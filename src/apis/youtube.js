@@ -1,3 +1,6 @@
+/**
+ * @author Filip.Kusztelak
+ */
 import axios from "axios";
 
 const KEY = "AIzaSyBLugoiskba2Cf1QX4g1aFflbiwnvZLYu4";
